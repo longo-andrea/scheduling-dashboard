@@ -1,0 +1,193 @@
+export default {
+  "_4gOEg11z.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "4gOEg11z.js",
+    "name": "nuxt-link",
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_CKIUVifN.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CKIUVifN.js",
+    "name": "facility",
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js",
+      "node_modules/.pnpm/@nuxt+icon@1.12.0_magicast@0.3.5_vite@6.2.6_jiti@2.4.2_lightningcss@1.29.2_terser@5.39.0_yaml_kqsuueze2wztgoauhjr333v4qy/node_modules/@nuxt/icon/dist/runtime/components/index.js"
+    ]
+  },
+  "_CTkElQug.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CTkElQug.js",
+    "name": "format"
+  },
+  "_DT9I7csn.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DT9I7csn.js",
+    "name": "Popover.vue",
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js",
+      "_CKIUVifN.js",
+      "_4gOEg11z.js"
+    ]
+  },
+  "layouts/default.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BKDPwSlj.js",
+    "name": "default",
+    "src": "layouts/default.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DT9I7csn.js",
+      "_CKIUVifN.js",
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js",
+      "_4gOEg11z.js",
+      "node_modules/.pnpm/@nuxt+icon@1.12.0_magicast@0.3.5_vite@6.2.6_jiti@2.4.2_lightningcss@1.29.2_terser@5.39.0_yaml_kqsuueze2wztgoauhjr333v4qy/node_modules/@nuxt/icon/dist/runtime/components/index.js"
+    ]
+  },
+  "node_modules/.pnpm/@nuxt+icon@1.12.0_magicast@0.3.5_vite@6.2.6_jiti@2.4.2_lightningcss@1.29.2_terser@5.39.0_yaml_kqsuueze2wztgoauhjr333v4qy/node_modules/@nuxt/icon/dist/runtime/components/index.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BcsrA5oa.js",
+    "name": "index",
+    "src": "node_modules/.pnpm/@nuxt+icon@1.12.0_magicast@0.3.5_vite@6.2.6_jiti@2.4.2_lightningcss@1.29.2_terser@5.39.0_yaml_kqsuueze2wztgoauhjr333v4qy/node_modules/@nuxt/icon/dist/runtime/components/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/components/error-404.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Coe2XmMW.js",
+    "name": "error-404",
+    "src": "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/components/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_4gOEg11z.js",
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": [
+      "error-404.cPUGeejC.css"
+    ]
+  },
+  "error-404.cPUGeejC.css": {
+    "file": "error-404.cPUGeejC.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/components/error-500.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "B1YFPKeD.js",
+    "name": "error-500",
+    "src": "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/components/error-500.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": [
+      "error-500.CFPXJYiH.css"
+    ]
+  },
+  "error-500.CFPXJYiH.css": {
+    "file": "error-500.CFPXJYiH.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DMS5LEkl.js",
+    "name": "entry",
+    "src": "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "layouts/default.vue",
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/components/error-404.vue",
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/components/error-500.vue"
+    ],
+    "css": [
+      "entry.C1FgT574.css"
+    ],
+    "assets": []
+  },
+  "entry.C1FgT574.css": {
+    "file": "entry.C1FgT574.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/[...empty].vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Jm4GNR2N.js",
+    "name": "_...empty_",
+    "src": "pages/[...empty].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "pages/booking/[id].vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BgAbAi_T.js",
+    "name": "_id_",
+    "src": "pages/booking/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/.pnpm/@nuxt+icon@1.12.0_magicast@0.3.5_vite@6.2.6_jiti@2.4.2_lightningcss@1.29.2_terser@5.39.0_yaml_kqsuueze2wztgoauhjr333v4qy/node_modules/@nuxt/icon/dist/runtime/components/index.js",
+      "_CKIUVifN.js",
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js",
+      "_CTkElQug.js"
+    ]
+  },
+  "pages/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "w5k4Rug_.js",
+    "name": "index",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DT9I7csn.js",
+      "node_modules/.pnpm/nuxt@3.16.2_@parcel+watcher@2.5.1_db0@0.3.1_ioredis@5.6.1_lightningcss@1.29.2_magicast@0.3.5__axtprfjejzjmz75caw2yemigbq/node_modules/nuxt/dist/app/entry.js",
+      "_CTkElQug.js",
+      "_CKIUVifN.js",
+      "_4gOEg11z.js",
+      "node_modules/.pnpm/@nuxt+icon@1.12.0_magicast@0.3.5_vite@6.2.6_jiti@2.4.2_lightningcss@1.29.2_terser@5.39.0_yaml_kqsuueze2wztgoauhjr333v4qy/node_modules/@nuxt/icon/dist/runtime/components/index.js"
+    ]
+  }
+}
