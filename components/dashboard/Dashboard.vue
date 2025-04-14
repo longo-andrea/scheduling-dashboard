@@ -69,12 +69,12 @@ const computedDayClasses = computed(() => (day: Date) => {
     <div class="col-span-7 grid grid-cols-[auto_1fr_auto] gap-2 lg:hidden">
       <UButton icon="i-carbon:arrow-left" size="md" variant="ghost" @click="slideWeek('previous')" />
 
-      <DatePicker v-model="targetDay as CalendarDate" />
+      <DatePicker v-model="targetDay" />
 
       <UButton icon="i-carbon:arrow-right" size="md" variant="ghost" @click="slideWeek('next')" />
     </div>
 
-    <DatePicker v-model="targetDay as CalendarDate" class="col-span-2 hidden lg:block" />
+    <DatePicker v-model="targetDay" class="col-span-2 hidden lg:block" />
 
     <UButton
       icon="i-carbon:arrow-left"

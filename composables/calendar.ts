@@ -2,7 +2,7 @@ import { CalendarDate } from "@internationalized/date"
 import { addDays, subDays } from "date-fns"
 
 export function useCalendar() {
-  const targetDay = ref(new CalendarDate(2021, 3, 13))
+  const targetDay = ref<CalendarDate>(new CalendarDate(2021, 3, 13))
 
   function slideWeek(direction: "previous" | "next") {
     let newTargetDay
